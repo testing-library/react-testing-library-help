@@ -6,8 +6,8 @@ function App() {
     <>
       <p>
         Hi! Need help with React Testing Library? The best way to get it is by
-        forking this codesandbox, making a reproduction of your issue (or
-        showing what you're trying to do) and posting a link to it on our
+        forking this repo, making a reproduction of your issue (or
+        showing what you're trying to do), and posting a link to it on our
         Discord chat:
       </p>
       <a
@@ -17,10 +17,6 @@ function App() {
       >
         testing-library.com/discord
       </a>
-      <p>
-        Open the test file and click the "Tests" tab in codesandbox to get
-        started.
-      </p>
     </>
   )
 }
