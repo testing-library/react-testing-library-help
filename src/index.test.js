@@ -1,13 +1,9 @@
 /*
 Hi! Need help with React Testing Library? The best way to get it is by forking
-this codesandbox, making a reproduction of your issue (or showing what you're
-trying to do) and posting a link to it on our Discord chat:
+this repository, making a reproduction of your issue (or showing what you're
+trying to do), and posting a link to your fork on our Discord chat:
 
 https://testing-library.com/discord
-
-If you need to use APIs that do not work in codesandbox (like jest.mock for
-example), then please download this and make a github repository instead. Then
-post a link to your github repo.
 */
 
 // here's an example
